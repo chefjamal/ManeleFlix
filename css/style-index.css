@@ -78,7 +78,9 @@ a:link, a:visited {
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
+  outline-style: inherit;
   display: inline-block;
+  border-radius: 30px;
   border: 3px solid rgb(31, 31, 31);
 
 }
