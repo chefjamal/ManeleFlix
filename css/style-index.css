@@ -70,26 +70,25 @@ div.personalData {
 }
 
 
-a:link, a:visited {
-  background-color: black;
-  border: none;
-  color: rgb(255, 255, 255);
-  border: 2px solid rgb(0, 0, 0);
-  padding: 10px 20px;
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
   text-align: center;
   text-decoration: none;
-  outline-style: inherit;
-  display: inline-block;
-  border-radius: 30px;
-  border: 3px solid rgb(31, 31, 31);
-
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
 }
 
+.button:hover {background-color: #3e8e41}
 
-a:hover, a:active {
-  background-color: rgb(44, 42, 42);
-  color: rgb(255, 0, 0);
-  border: 2px solid rgb(58, 58, 58);
-  border-radius: 30px;
-  font-weight: bolder;
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
