@@ -1,98 +1,98 @@
 body {
-    background-color: black;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: white;
-  }
+  background-color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+}
   
   
-  button {
-    background-color: black;
-  }
+button {
+  background-color: black;
+}
   
   
-  .banner {
-    position: relative;
-    width: 300px;
-  }
+.banner {
+  position: relative;
+  width: 300px;
+}
   
   
-  .logo {
-    background-image: url(/Maneleflix/img/SALAM1.jpg);
-    background-repeat: no-repeat;
-    background-position: 0px;
-    background-size: 600px;
-    border-radius: 30px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 600px;
-  }
+.logo {
+  background-image: url(/Maneleflix/img/SALAM1.jpg);
+  background-repeat: no-repeat;
+  background-position: 0px;
+  background-size: 600px;
+  border-radius: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
   
   
-  h1 {
-    text-align: center;
-    font-size: 25px;
-  }
+h1 {
+  text-align: center;
+  font-size: 25px;
+}
   
   
-  div.navigation {
-    text-align: center;
-    border: 3px solid rgb(0, 0, 0);
-    border-left: 0px;
-    border-right: 0px;
-    outline: 0;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: bold;
-  }
+div.navigation {
+  text-align: center;
+  border: 3px solid rgb(0, 0, 0);
+  border-left: 0px;
+  border-right: 0px;
+  outline: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
   
   
-  input.personalInfo {
-    width: 90px;
-    background-color: black;
-    color: white;
-    border-radius: 10px;
-    padding-bottom: 5px;
-    margin-bottom: 3px;
-  }
+input.personalInfo {
+  width: 90px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  padding-bottom: 5px;
+  margin-bottom: 3px;
+}
   
   
-  input.submit {
-    font-weight: bold;
-    background-color: black;
-    color: white;
-    border: 2px solid gray;
-    border-radius: 20px;
-    margin-top: 5px;
-  }
+input.submit {
+  font-weight: bold;
+  background-color: black;
+  color: white;
+  border: 2px solid gray;
+  border-radius: 20px;
+  margin-top: 5px;
+}
   
   
-  div.personalData {
-    text-align: right;
-    display:end;
-  }
+div.personalData {
+  text-align: right;
+  display:end;
+}
   
   
-  .button {
-    display: inline-block;
-    padding: 15px 25px;
-    font-size: 22px;
-    cursor: pointer;
-    text-align: center;
-    text-decoration: none;
-    outline: none;
-    color: #fff;
-    background-color: hsl(0, 2%, 9%);
-    border: none;
-    border-radius: 15px;
-    box-shadow: 0 9px #999;
-  }
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 22px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: hsl(0, 2%, 9%);
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px rgb(136, 6, 6);
+}
   
-  .button:hover {
-    background-color: hsl(0, 2%, 9%)
-  }
+.button:hover {
+  background-color: hsl(0, 2%, 9%)
+}
   
-  .button:active {
-    background-color: #121212;
-    box-shadow: 0 5px rgb(136, 6, 6);
-    transform: translateY(4px);
-  }
+.button:active {
+  background-color: #121212;
+  box-shadow: 0 5px rgb(136, 6, 6);
+  transform: translateY(4px);
+}

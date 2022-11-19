@@ -84,7 +84,7 @@ div.personalData {
   background-color: hsl(0, 2%, 9%);
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px #999;
+  box-shadow: 0 9px rgb(136, 6, 6);
 }
 
 .button:hover {
@@ -95,4 +95,9 @@ div.personalData {
   background-color: #121212;
   box-shadow: 0 5px rgb(136, 6, 6);
   transform: translateY(4px);
+}
+
+.maneauaDeAzi {
+  text-align: center;
+  display: block;
 }
