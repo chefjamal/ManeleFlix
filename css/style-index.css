@@ -75,7 +75,7 @@ div.personalData {
 .button {
   display: inline-block;
   padding: 15px 25px;
-  font-size: 24px;
+  font-size: 22px;
   cursor: pointer;
   text-align: center;
   text-decoration: none;
@@ -87,10 +87,12 @@ div.personalData {
   box-shadow: 0 9px #999;
 }
 
-.button:hover {background-color: #000000}
+.button:hover {
+  background-color: hsl(0, 2%, 9%)
+}
 
 .button:active {
   background-color: #121212;
-  box-shadow: 0 5px #666;
+  box-shadow: 0 5px rgb(136, 6, 6);
   transform: translateY(4px);
 }
