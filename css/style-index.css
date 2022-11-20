@@ -63,6 +63,6 @@ div.navigation {
 
 .maneaIndex {
   text-align: center;
-  display: block;
-  margin: auto;
+  display: flex;
+  margin: 50%;
 }
