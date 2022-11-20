@@ -61,6 +61,10 @@ div.navigation {
   transform: translateY(4px);
 }
 
+.maneauaDeAzi {
+  float: left;
+}
+
 .maneaIndex {
-  margin: auto;
+  float: right;
 }
