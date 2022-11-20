@@ -28,12 +28,6 @@ h1 {
   font-size: 25px;
 }
 
-.maneaIndex {
-  text-align: center;
-  display: block;
-  margin: auto;
-}
-
 div.navigation {
   text-align: center;
   border-left: 0px;
@@ -65,4 +59,10 @@ div.navigation {
   background-color: #121212;
   box-shadow: 0 5px rgb(136, 6, 6);
   transform: translateY(4px);
+}
+
+.maneaIndex {
+  text-align: center;
+  display: block;
+  margin: auto;
 }
