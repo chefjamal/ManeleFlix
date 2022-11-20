@@ -28,7 +28,8 @@ h1 {
   font-size: 25px;
 }
 
-.numeManeaIndex {
+.maneaIndex {
+  display: flex;
   text-align: center;
 }
 
