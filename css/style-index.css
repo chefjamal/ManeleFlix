@@ -29,9 +29,9 @@ h1 {
 }
 
 .maneaIndex {
-display: block;
-margin: auto;
-text-align: center;
+  text-align: center;
+  display: block;
+  margin: auto;
 }
 
 div.navigation {
