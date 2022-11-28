@@ -62,9 +62,6 @@ div.navigation {
 }
 
 .maneauaDeAzi {
-  float: left;
-}
-
-.maneaIndex {
-  float: right;
+display: block;
+align-items: left;
 }
