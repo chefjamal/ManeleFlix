@@ -64,4 +64,6 @@ div.navigation {
 
 .maneauaDeAzi {
   text-align: center;
+  margin: auto;
+  display: block;
 }
